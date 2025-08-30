@@ -36,3 +36,15 @@ I am available for freelance projects, collaborations, and client work:
 
 > “Efficient solutions. Clean code. Happy clients.”
 
+# ANWAR_GURU
+
+## Professional Python Developer | PDF Automation Specialist
+Delivering efficient, reliable, and professional Python solutions to automate PDF workflows for businesses.
+
+![Anwar Guru GitHub Stats](https://github-readme-stats.vercel.app/api?username=anwar_guru&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anwar_guru&layout=compact&theme=radical)
+
+## About Me
+I specialize in **Python PDF automation** to streamline business processes.
+...
